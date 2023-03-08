@@ -8,7 +8,8 @@
 using namespace std;
 
 
-    vector<int> list;
+ vector<int> list;
+ 
  void function() {
 
     for (int i = 100; i <= 1000; i++)
